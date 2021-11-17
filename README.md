@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fuyimin96
-- 👀 I’m interested in pattern recognition and computer vision
-- 🌱 I’m currently doing my Ph.D. in NWPU China
+- 👋 Hi, I’mYimin Fu.
+- 👀 I’m interested in pattern recognition and computer vision.
+- 🌱 I’m currently doing my Ph.D. in NWPU China, the school of Automation.
 - 📫 You can contact me by fuyimin96@mail.nwpu.edu.cn
 
 <!---
